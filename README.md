@@ -17,10 +17,4 @@ Key features:
 - **Performance Evaluation**: Assessing the model's accuracy and training time on both training and testing sets, ensuring reliable evaluation metrics.
 - **Dropout Regularization**: Implementing dropout layers to prevent overfitting and improve model performance.
 
----
-
-## Results
-After training the models, you can find the evaluation results in the notebook. The metrics to look for include:
-- **Accuracy** on the test set
-- **Training time**
 
