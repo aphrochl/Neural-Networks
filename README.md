@@ -19,39 +19,6 @@ Key features:
 
 ---
 
-# Contents
-
-- [Prerequisites](#Prerequisites)
-- [How to Set Up and Run](#How-to-Set-Up-and-Run)
-- [Results](#Results)
-- [Contributing](#Contributing)
-
-## Prerequisites
-
-To run this project, you will need:
-
-- Python 3.x: [Download Python](https://www.python.org/downloads/)
-- Required Python packages: Install the necessary packages using the following command:
-  ```bash
-  pip install -r requirements.txt
-  ```
-
-## How to Set Up and Run
-
-### Clone the Repository
-First, clone the repository to your local machine:
-```bash
-git clone https://github.com/your-github-profile/image-classification-cifar10.git
-cd image-classification-cifar10
-```
-
-### Running the Application
-To run the Jupyter Notebook, use the following command:
-```bash
-jupyter notebook ex1_template.ipynb
-```
-Follow the instructions in the notebook to execute the code and evaluate the model.
-
 ## Results
 After training the models, you can find the evaluation results in the notebook. The metrics to look for include:
 - **Accuracy** on the test set
